@@ -1,0 +1,35 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+venv/
+.env
+*.db
+*.sqlite3
+
+# Node
+node_modules/
+package-lock.json
+yarn.lock
+*.log
+
+# React
+build/
+dist/
+.cache/
+*.log
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Prisma
+prisma/.migrations/
+prisma/dev.db
